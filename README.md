@@ -6,7 +6,7 @@ This project provides a Node.js package that makes it easy to consume and manage
 
 ## Install from npm
 
-We provide both fine-grained modules for different Microsoft Azure services which you can install separately, and an all-up module which contains everything.
+We provide both fine-grained modules for different Microsoft Azure services which you can install separately and an all-up module which contains everything.
 
 **Notice**: we haven't provided fine-grained modules for every supported Microsoft Azure services yet. This will come soon.
 
@@ -80,7 +80,7 @@ instructions expect you have Git and a supported version of Node installed.
 2. Git Clone your fork (`git clone {your repo}`)
 3. Move into sdk directory (`cd azure-sdk-for-node`)
 4. Install all dependencies (`npm install`)
-5. Run the tests (`npm test`). You should see all tests passing.
+5. Run the tests (`npm test`). You should see all the tests passing.
 
 ### Contributing Code to the Project
 You found something you'd like to change, great! Please submit a pull request and we'll do our best to work with you to
